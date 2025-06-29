@@ -6,6 +6,7 @@ I'm using the following addons:
 * [WeakAuras](https://github.com/WeakAuras/WeakAuras2). There's many useful ones, but I mostly use: Check  or [Afenar](https://github.com/Afenar/AfenarUI)'s compilations.
     * [My own](https://wago.io/search/imports/wow/all-weakaura?q=User%3A%22Trincasidra%232868%22) class auras, the dungeon/raid auras (ie. [twwdungeons](https://wago.io/twwdungeons)), [m+ timer](https://wago.io/M+Timer), mouse [trail](https://wago.io/RzZVq4F1a) and [circle](https://wago.io/OTyS_8FRU), and [group key reminder](https://wago.io/InuA9W3y3).
 * [Cell](https://github.com/enderneko/Cell)
+    * With [Cell Unit Frames](https://github.com/Krealle/Cell_UnitFrames)
 * [Plater](https://github.com/Tercioo/Plater-Nameplates)
 * LS [Toasts](https://github.com/ls-/ls_Toasts) and [Glass](https://github.com/ls-/ls_Glass)
 * [BetterBags](https://github.com/Cidan/BetterBags)
