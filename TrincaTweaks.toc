@@ -1,0 +1,23 @@
+## Interface: 110107
+## Version: 1
+## Title: Trinca |cff1a9fc0Tweaks|r
+## Notes: Minimalistic UI tweaks.
+## Author: Trincasidra
+## SavedVariables: TrincaChatHistoryDB
+
+config.lua
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibSharedMedia-3.0\lib.xml
+libs\rLib\rLib.xml
+
+init.lua
+
+modules\minimap.lua
+modules\actionbars.lua
+modules\expbar.lua
+modules\tooltip.lua
+modules\loot.lua
+modules\sellPoor.lua
+modules\chatHistory.lua
